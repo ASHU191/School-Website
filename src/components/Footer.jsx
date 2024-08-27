@@ -40,10 +40,10 @@ const Footer = () => {
         <div className='w-full md:w-1/4 text-white flex flex-col gap-5'>
           <h1 className="text-2xl font-bold text-white">Contact Us</h1>
           <ul className='flex flex-col gap-3'>
-            <li className='flex gap-3'><LocationOnIcon />Sector 3, Uttara, Dhaka</li>
+            <li className='flex gap-3'><LocationOnIcon /> Karachi, Pakistan</li>
             <li className='flex gap-3'><EmailIcon />info@school.edu</li>
-            <li className='flex gap-3'><LocalPhoneIcon />+921712345678</li>
-            <li className='flex gap-3'><LocalPhoneIcon />+921987654321</li>
+            <li className='flex gap-3'><LocalPhoneIcon />+923010209887</li>
+            <li className='flex gap-3'><LocalPhoneIcon />+923253508178</li>
           </ul>
         </div>
 
@@ -75,7 +75,7 @@ const Footer = () => {
 
       <hr className="border my-6 text-white" />
 
-      <div className='text-white text-center pb-4'>© 2023 School. All rights reserved.</div>
+      <div className='text-white text-center pb-4'>© 2023 School. All rights reserved to Muhammad Arsalan Aftab.</div>
     </div>
   </div>
 </div>
